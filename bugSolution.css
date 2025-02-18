@@ -1,0 +1,8 @@
+/* Corrected CSS */
+.element {
+  width: calc(50% + 10px);
+}
+/* Or */
+.element {
+  width: calc(50% - 10px);
+}
